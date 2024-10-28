@@ -1,0 +1,6 @@
+requests==2.31.0  # For making HTTP requests to APIs like Google Maps
+googlemaps==4.10.0  # Wrapper for the Google Maps API
+geopy==2.3.0  # For geocoding and calculating distances
+numpy==1.24.4  # Useful for matrix operations, if needed for route optimization
+scipy==1.11.2  # For advanced optimization techniques (if required)
+pytest==7.4.2  # For testing the route planning functions

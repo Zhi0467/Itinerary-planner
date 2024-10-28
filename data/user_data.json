@@ -1,0 +1,9 @@
+{
+    "description": "Sample input data used for testing the itinerary planner.",
+    "tasks": [
+        {"name": "Buy matcha cake", "query": "cake shop", "is_fixed": false},
+        {"name": "Go to Cafe A", "location": "Cafe A, Shanghai", "is_fixed": true}
+    ],
+    "time_budget": 240,
+    "start_location": "Shanghai Tower"
+}

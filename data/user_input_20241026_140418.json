@@ -1,0 +1,12 @@
+{
+    "start_location": "Treehouse",
+    "tasks": [
+        {
+            "name": "watch Harry Potter",
+            "location": "Raffles",
+            "is_fixed": true
+        }
+    ],
+    "time_budget": 180,
+    "travel_mode": "driving"
+}
